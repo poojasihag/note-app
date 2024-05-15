@@ -24,6 +24,13 @@
 .container h1 img {
   width: 60px;
 }
+.notes-container{
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+  gap: 1px;
+  column-gap: 53px;
+}
 
 .container button img {
   width: 24px;
